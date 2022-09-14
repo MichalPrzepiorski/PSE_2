@@ -7,7 +7,7 @@
 #Bilans mocy w szczycie rannym i wieczornym
 #Kompensowanie niezbilansowań
 from Ubytki_mocy_JWCD_cieplnych import Jeden 
-from Dwa import Dwa 
+from Zapotrzebowanie_mocy_KSE import Dwa 
 from Generacja_mocy_jednostek_wytworczych import Trzy
 from Generacja_zrodel_wiatrowych_i_fotowoltaicznych import Cztery
 from Przepływy_mocy_na_poszczegolnych_przekrojach_handlowych import Pięć

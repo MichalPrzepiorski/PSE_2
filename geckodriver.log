@@ -1115,3 +1115,180 @@ Read port: 53171
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilec6udy8\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:53162/devtools/browser/0b1846aa-5d3d-459d-945a-6fcf92e6af31
 JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663140643429	geckodriver	INFO	Listening on 127.0.0.1:55037
+1663140646524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilefljGjh"
+1663140647007	Marionette	INFO	Marionette enabled
+1663140647012	Marionette	INFO	Listening on port 55048
+WebDriver BiDi listening on ws://localhost:55038
+Read port: 55048
+1663140647130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilefljGjh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55038/devtools/browser/c3ab2f68-bccd-4f1c-a4fb-00ce25d58bbc
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663140686366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663140691602	Marionette	INFO	Stopped listening on port 55048
+1663140747610	geckodriver	INFO	Listening on 127.0.0.1:55107
+1663140750692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileej4p4F"
+1663140751017	Marionette	INFO	Marionette enabled
+1663140751021	Marionette	INFO	Listening on port 55117
+WebDriver BiDi listening on ws://localhost:55108
+Read port: 55117
+1663140751111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileej4p4F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55108/devtools/browser/291479f7-a24c-465d-9cc9-73a5ba28e462
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663140775181	Marionette	INFO	Stopped listening on port 55117
+1663140852733	geckodriver	INFO	Listening on 127.0.0.1:55187
+1663140855790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileH2lrGo"
+1663140856093	Marionette	INFO	Marionette enabled
+1663140856096	Marionette	INFO	Listening on port 55197
+WebDriver BiDi listening on ws://localhost:55188
+Read port: 55197
+1663140856188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileH2lrGo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55188/devtools/browser/cfa3c139-4766-4092-92d8-076c078df79c
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663140873949	Marionette	INFO	Stopped listening on port 55197
+1663140940122	geckodriver	INFO	Listening on 127.0.0.1:55261
+1663140943167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofiletVhNfU"
+1663140943481	Marionette	INFO	Marionette enabled
+1663140943485	Marionette	INFO	Listening on port 55271
+WebDriver BiDi listening on ws://localhost:55262
+Read port: 55271
+1663140943575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofiletVhNfU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55262/devtools/browser/5d0b8079-cca9-409d-869f-bb91ce58cba0
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663141284027	geckodriver	INFO	Listening on 127.0.0.1:55382
+1663141287096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilefViB8t"
+1663141287395	Marionette	INFO	Marionette enabled
+1663141287398	Marionette	INFO	Listening on port 55392
+WebDriver BiDi listening on ws://localhost:55383
+Read port: 55392
+1663141287491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilefViB8t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55383/devtools/browser/6e8aac47-0590-49b9-8109-9a4f5d690f14
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663141318576	Marionette	INFO	Stopped listening on port 55392
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663141339281	geckodriver	INFO	Listening on 127.0.0.1:55438
+1663141342338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileEpz12x"
+1663141342732	Marionette	INFO	Marionette enabled
+1663141342736	Marionette	INFO	Listening on port 55452
+WebDriver BiDi listening on ws://localhost:55439
+Read port: 55452
+1663141342830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileEpz12x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55439/devtools/browser/465617e0-39e3-4293-9b26-0bfd4a9a1eeb
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663141367753	Marionette	INFO	Stopped listening on port 55452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663141386758	geckodriver	INFO	Listening on 127.0.0.1:55493
+1663141389834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileiYRt3v"
+1663141390138	Marionette	INFO	Marionette enabled
+1663141390142	Marionette	INFO	Listening on port 55503
+WebDriver BiDi listening on ws://localhost:55494
+Read port: 55503
+1663141390232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileiYRt3v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55494/devtools/browser/58b6ef19-cc3d-4ff9-87d3-1feeba0f4309
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663141421812	Marionette	INFO	Stopped listening on port 55503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663141439797	geckodriver	INFO	Listening on 127.0.0.1:55538
+1663141442867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile66zo5d"
+1663141443177	Marionette	INFO	Marionette enabled
+1663141443181	Marionette	INFO	Listening on port 55551
+WebDriver BiDi listening on ws://localhost:55539
+Read port: 55551
+1663141443279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile66zo5d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55539/devtools/browser/a3582c70-dbfa-4fab-9c47-5a96e0f77a96
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663141520873	Marionette	INFO	Stopped listening on port 55551
+1663141998048	geckodriver	INFO	Listening on 127.0.0.1:55671
+1663142001115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilePRbJLo"
+1663142001416	Marionette	INFO	Marionette enabled
+1663142001420	Marionette	INFO	Listening on port 55681
+WebDriver BiDi listening on ws://localhost:55672
+Read port: 55681
+1663142001510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilePRbJLo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55672/devtools/browser/4d12fbf9-64a9-4889-a258-93cccf64a6b1
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663142108054	geckodriver	INFO	Listening on 127.0.0.1:55716
+1663142111136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilea1SVfA"
+1663142111435	Marionette	INFO	Marionette enabled
+1663142111439	Marionette	INFO	Listening on port 55726
+WebDriver BiDi listening on ws://localhost:55717
+Read port: 55726
+1663142111529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofilea1SVfA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55717/devtools/browser/a51a4aaf-b32a-486a-b554-26000da7beab
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663142186380	Marionette	INFO	Stopped listening on port 55726
+1663142324074	geckodriver	INFO	Listening on 127.0.0.1:55778
+1663142327147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile7crWwa"
+1663142327461	Marionette	INFO	Marionette enabled
+1663142327465	Marionette	INFO	Listening on port 55788
+WebDriver BiDi listening on ws://localhost:55779
+Read port: 55788
+1663142327563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile7crWwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55779/devtools/browser/e0d85de0-d00c-4ccf-b182-be7235f0e3b3
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663142398101	Marionette	INFO	Stopped listening on port 55788
+1663143222721	geckodriver	INFO	Listening on 127.0.0.1:55978
+1663143225774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileHn22GL"
+1663143226073	Marionette	INFO	Marionette enabled
+1663143226077	Marionette	INFO	Listening on port 55988
+WebDriver BiDi listening on ws://localhost:55979
+Read port: 55988
+1663143226168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileHn22GL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55979/devtools/browser/284a4990-e95b-4394-b95f-6b2e904d3f81
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663143354385	Marionette	INFO	Stopped listening on port 55988
+1663143457364	geckodriver	INFO	Listening on 127.0.0.1:56037
+1663143460414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileEtAzYT"
+1663143460725	Marionette	INFO	Marionette enabled
+1663143460728	Marionette	INFO	Listening on port 56047
+WebDriver BiDi listening on ws://localhost:56038
+Read port: 56047
+1663143460818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofileEtAzYT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56038/devtools/browser/a648d9b2-3bc0-4bf9-b318-fb0380fb4b9a
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663143592648	Marionette	INFO	Stopped listening on port 56047
+1663143691831	geckodriver	INFO	Listening on 127.0.0.1:56089
+1663143694909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile1ZK7Ro"
+1663143695213	Marionette	INFO	Marionette enabled
+1663143695217	Marionette	INFO	Listening on port 56099
+WebDriver BiDi listening on ws://localhost:56090
+Read port: 56099
+1663143695307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mprze\\AppData\\Local\\Temp\\rust_mozprofile1ZK7Ro\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56090/devtools/browser/564503a5-37dd-49ee-a7d2-c429bb96f1ad
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+JavaScript error: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-dobowe-z-pracy-kse/zapotrzebowanie-mocy-kse, line 43: TypeError: A is null
+1663143766639	Marionette	INFO	Stopped listening on port 56099
