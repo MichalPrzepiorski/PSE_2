@@ -15,9 +15,9 @@ class Pięć:
                 nazwa_pliku = '{poczatek}-{koniec}'.format(poczatek = daty1[0], koniec = daty1[1])
                 Nazwy.append('{nazwa_pliku1}.csv'.format(nazwa_pliku1 = nazwa_pliku))
                 url='https://www.pse.pl/getcsv/-/export/csv/PL_WYK_WYM/data_od/{z}/data_do/{k}'.format(z = daty1[0], k = daty1[1])
-                #urllib.request.urlretrieve(url, '{nazwa_pliku1}.csv'.format(nazwa_pliku1 = nazwa_pliku))
+                urllib.request.urlretrieve(url, '{nazwa_pliku1}.csv'.format(nazwa_pliku1 = nazwa_pliku))
                 
-            return(Nazwy)
+            return(Nazwy, lista)
 
         except:
 
